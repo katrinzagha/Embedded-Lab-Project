@@ -1,1 +1,2 @@
 # Embedded-Lab-Project
+This embedded systems project implements a model-based PID (Proportional-Integral-Derivative) control system to balance a solid ball on a tiltable track. The primary objective is to maintain the ball at a predefined set point by adjusting the angle of the track using a servo motor. The system uses Arduino, Simulink, ultrasonic sensors, and potentiometers to achieve closed-loop control.
